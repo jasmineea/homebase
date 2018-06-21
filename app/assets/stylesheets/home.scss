@@ -1,0 +1,177 @@
+// Place all the styles related to the Home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+body {
+    background: image-url('HomebaseBG.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    font-family: 'Lato', sans-serif;
+    color: white
+}
+
+
+.arcade {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    color: white;
+}
+.arcade1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    color: white;
+}
+
+.home {
+    width: 110px;
+    height: 140px;
+    margin-left: 160px;
+}
+
+.input-group {
+    width: 300px;
+    margin-top: 20px;
+    
+}
+
+.form-control {
+    border: 3px solid #8B008B;
+}
+
+.btn-custom {
+    background-color: #8B008B;
+}
+
+.squiggly2 {
+    margin-left: 115px;
+    margin-top: -15px;
+   
+}
+
+.email-submit {
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: -10px
+}
+
+.effect {
+    margin-left: 80px;
+}
+
+#logo-header {
+    margin-top: -150px;
+}
+.work {
+    margin-left: 135px;
+    margin-top: 100px;
+    width: 110px;
+    height: 140px;
+}
+
+.pacman {
+    width: 110px;
+    height: 100px;
+    margin-top: 100px;
+    margin-left: 160px;
+    
+    
+}
+
+.lead {
+    font-size: 17px;
+    text-align: center;
+}
+    
+    
+
+.logo {
+    width: 400px;
+    height: 250px;
+    
+   
+}
+
+
+.squiggly1 {
+    width: 150px;
+    height: 380px;
+    margin-left: 160px;
+    margin-top: -60px;
+}
+
+.workout {
+    width: 110px;
+    height: 140px;
+    margin-left: 120px;
+}
+
+.uparrow {
+    width: 110px;
+    height: 240px;
+    margin-left: 180px;
+    
+}
+
+.effect {
+    margin-right: 180px;
+}
+
+
+header {
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+.bottom {
+    text-transform: capitalize;
+}
+
+footer {
+    color: white;
+    margin-left: 450px;
+    
+}
+
+
+.no-gutters {
+ float: left;
+}
+
+.footer-content {
+    margin-top: -100px;
+}
+
+.ice {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #0000ff , 0 0 30px #0000ff , 0 0 40px #0000ff , 0 0 55px #0000ff , 0 0 75px #0000ff ;
+}
+
+.arrow {
+    width: 150px;
+    height: 140px;
+
+
+}
+
+.wellness {
+    width: 110px;
+    height: 140px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+// Media Query 
+
+
+
+
+
